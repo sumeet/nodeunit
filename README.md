@@ -13,7 +13,7 @@ all your tests are asynchronous, and plays nicely with the existing module
 system. Because of these assumptions, the already minimal API offered by QUnit
 can be further reduced.
 
-sumeet's fork
+sumeet's Fork
 -------------
 
 Output to JUnit test result XML files to use with Hudson.
